@@ -1,0 +1,6 @@
+pytest 
+pytest-azurepipelines
+pytest-cov
+requests
+flask
+flask-restful
